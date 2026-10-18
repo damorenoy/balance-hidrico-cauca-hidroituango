@@ -1,0 +1,4 @@
+﻿variable,clave,n_estaciones,T0_C,alpha_C_por_m,alpha_C_por_km,IC95_alpha_C_por_km,R2,RMSE_C,Z_min_m,Z_max_m,ecuacion
+Temperatura máxima media,tmax,73,36.331603,0.007115,7.114622,0.466238,0.928772,1.22357,500.0,4150.0,Tmax = 36.33 − 0.00711·Z
+Temperatura mínima media,tmin,72,24.295599,0.005736,5.736107,0.312726,0.950294,0.812682,530.0,4150.0,Tmin = 24.30 − 0.00574·Z
+Temperatura media,tmed,73,29.988095,0.006395,6.395361,0.291962,0.964117,0.765566,530.0,4150.0,Tmed = 29.99 − 0.00640·Z

@@ -1,0 +1,5 @@
+﻿Producto,Puesto,P en el cierre (mm/año),Dif. de P con IDEAM (%),Error de Q en el cierre (%),Corrección de P en el cierre (%),Error medio en estaciones (%),Error absoluto medio (%),Estaciones con |error| ≤ 20 %,Estaciones evaluadas,"r espacial (Q est. vs Q obs., mm)",Estaciones con balance imposible,Puntaje del balance (%)
+IDEAM,1,2000.655,0.0,4.593,-2.489,-0.404,5.203,9,9,0.894,0,4.898
+CHIRPS,2,2031.544,1.544,6.171,-3.278,0.676,5.959,8,9,0.871,0,6.065
+ERA5-Land,3,6196.976,209.747,453.989,-69.247,432.42,432.42,0,9,-0.838,9,443.204
+ERA5,4,6225.285,211.162,456.91,-69.34,431.608,431.608,0,9,-0.839,9,444.259

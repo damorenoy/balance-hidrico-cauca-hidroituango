@@ -1,0 +1,9 @@
+Entre los productos, el que mejor reproduce el balance hídrico observado es CHIRPS: error de +6.2 % en el caudal de Cañafisto y error absoluto medio de 6.0 % en 9 estaciones (puntaje 6.1 %).
+Con la lluvia interpolada del IDEAM el puntaje es 4.9 % (error de +4.6 % en el cierre): CHIRPS cierra el balance peor que las estaciones del IDEAM.
+Productos con error ≤ 20 % en el cierre y en promedio: CHIRPS.
+Todas las fuentes de lluvia sobrestiman el caudal en el cierre. Puede haber ETR subestimada, o extracciones y pérdidas que el balance no considera.
+El producto con la P más parecida a la del IDEAM (CHIRPS) es también el que mejor reproduce el caudal observado.
+El error de CHIRPS cambia de signo entre estaciones (de -23 % a +9 %): parte del acierto en el cierre puede ser compensación de errores.
+Para cerrar exactamente el balance en Cañafisto, la P de CHIRPS tendría que cambiar -3.3 %.
+ERA5-Land: en 9 estaciones P − Q observado queda fuera de [0, ETP]; con esa lluvia el balance no puede cerrar.
+ERA5: en 9 estaciones P − Q observado queda fuera de [0, ETP]; con esa lluvia el balance no puede cerrar.

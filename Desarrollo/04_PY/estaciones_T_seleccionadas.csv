@@ -1,0 +1,77 @@
+﻿CODIGO,ZONA_HIDRO,CAT,NOMBRE,MUNICIPIO,DEPARTAMENTO,ELEV,lon,lat,ubicacion,tmax,tmin,tmed
+26195020,26,CO,Ita Andes,Andes,Antioquia,1180,-75.88,5.691,dentro,28.678,16.72,21.995
+27015150,27,CO,Progreso El Hda,Barbosa,Antioquia,1500,-75.397,6.414,vecindario,28.024,16.432,22.018
+27015090,27,CO,Tulio Ospina,Bello,Antioquia,1438,-75.552,6.321,vecindario,27.945,16.927,21.956
+26225040,26,CO,Piunti Hda,Buritica,Antioquia,1650,-75.913,6.73,dentro,25.805,,20.729
+27015260,27,AM,Salada La,Caldas,Antioquia,1680,-75.625,6.048,vecindario,23.32,12.882,18.306
+11115020,11,CO,Canasgordas,Canasgordas,Antioquia,1200,-76.03,6.758,vecindario,26.819,16.666,21.537
+11025010,11,CO,Mansa La,Ciudad Bolivar,Antioquia,2100,-76.084,5.878,dentro,21.038,12.994,16.758
+26215010,26,CO,Concordia,Concordia,Antioquia,1904,-75.92,6.04,dentro,23.231,14.271,18.511
+26175040,26,CO,Tunez Hda,Fredonia,Antioquia,530,-75.651,5.8,dentro,32.86,19.526,25.966
+11115040,11,CO,Musinga,Frontino,Antioquia,1330,-76.191,6.787,vecindario,25.283,15.59,19.946
+26195030,26,CO,Jardin El,Jardin,Antioquia,2005,-75.801,5.588,dentro,21.906,13.409,17.055
+26195010,26,CO,Miguel Valencia,Jardin,Antioquia,1570,-75.85,5.533,dentro,25.39,15.056,19.235
+26185020,26,CO,Mesopotamia,La Union,Antioquia,2314,-75.319,5.886,dentro,20.398,10.143,14.867
+27015070,27,SP,A.Olaya Herrera,Medellin,Antioquia,1490,-75.589,6.221,vecindario,27.835,17.361,22.491
+23085110,23,CO,Penol El,Penol,Antioquia,1956,-75.241,6.214,vecindario,23.28,12.864,18.249
+23085200,23,SP,A.J M Cordova,Rionegro,Antioquia,2073,-75.426,6.169,vecindario,22.185,12.493,16.998
+23085040,23,AM,Selva La,Rionegro,Antioquia,2090,-75.415,6.132,vecindario,22.611,12.222,16.815
+23085140,23,CO,San Francisco,San Francisco,Antioquia,1306,-75.101,5.964,vecindario,25.981,17.207,21.771
+27015110,27,CO,Aragon,Santa Rosa de Osos,Antioquia,2600,-75.827,6.534,dentro,18.196,7.706,13.344
+26225030,26,AM,Cotove Hda,Santafe de Antioquia,Antioquia,530,-75.827,6.534,dentro,34.538,20.447,27.038
+26175030,26,CP,Nacional Gja La,Tamesis,Antioquia,1151,-75.694,5.72,dentro,27.601,18.491,22.614
+26235030,26,CO,Matanzas,Toledo,Antioquia,500,-75.666,7.036,vecindario,31.951,,
+11075010,11,CO,Honda La,Urrao,Antioquia,1850,-76.158,6.356,vecindario,21.553,12.653,16.751
+11075020,11,CO,Urrao,Urrao,Antioquia,1850,-76.14,6.325,vecindario,22.546,13.485,17.363
+26205020,26,CP,Rosario El,Venecia,Antioquia,1600,-75.717,5.933,dentro,24.838,16.038,20.224
+26185010,26,CO,Pelada La,Aguadas,Caldas,2180,-75.345,5.579,dentro,21.526,12.253,16.713
+26145020,26,CO,Bellavista,Anserma,Caldas,1932,-75.8,5.276,dentro,21.509,13.383,17.009
+26155110,26,SP,Apto La Nubia,Manizales,Caldas,2058,-75.47,5.03,dentro,21.343,12.448,17.005
+26185040,26,CO,San Felix,Salamina,Caldas,2696,-75.375,5.373,dentro,16.637,6.087,11.373
+26175070,26,CO,Rafael Escobar,Supia,Caldas,1320,-75.65,5.467,dentro,27.696,17.392,22.067
+26155150,26,CP,Brisas Las,Villamaria,Caldas,4150,-75.35,4.901,dentro,8.432,1.233,4.636
+26145050,26,CO,Samaria La,Viterbo,Caldas,1020,-75.883,5.05,dentro,29.662,,24.482
+26025090,26,CO,Venta De Cajibio,Cajibio,Cauca,1850,-76.562,2.585,dentro,24.521,13.727,18.494
+52025050,52,CO,Sierra La,La Sierra,Cauca,1870,-76.75,2.194,vecindario,22.298,14.369,17.927
+26065010,26,CO,Ing Cauca,Miranda,Cauca,1000,-76.347,3.269,dentro,29.772,18.553,23.47
+26065020,26,CO,Miranda,Miranda,Cauca,1128,-76.223,3.246,dentro,29.176,18.138,23.482
+26025100,26,CO,Tunia,Piendamo,Cauca,1800,-76.526,2.674,dentro,23.795,14.381,19.065
+26035030,26,SP,Apto G L Valencia,Popayan,Cauca,1749,-76.609,2.453,dentro,24.873,13.41,
+26045010,26,CO,Ing Bengala,Puerto Tejada,Cauca,1000,-76.416,3.263,dentro,29.892,17.924,24.034
+21055030,21,CO,Sta Leticia,Purace,Cauca,2085,-76.164,2.241,vecindario,19.593,11.655,15.864
+26025030,26,CO,Japio,Santander de Quilichao,Cauca,1015,-76.45,3.05,dentro,29.029,18.35,23.551
+52015010,52,CO,Paispamba,Sotara,Cauca,2450,-76.612,2.25,vecindario,,10.069,13.962
+26025070,26,CO,Gabriel Lopez,Totoro,Cauca,3000,-76.289,2.51,dentro,15.155,6.2,10.409
+54025010,54,CO,San Jose Palmar,San Jose del Palmar,Choco,1115,-76.232,4.898,vecindario,24.173,18.064,20.896
+26125060,26,SP,Apto El Eden,Armenia,Quindio,1229,-75.766,4.455,dentro,27.581,16.746,22.068
+26125070,26,CO,Bella La,Calarca,Quindio,1450,-75.667,4.517,dentro,25.435,16.237,20.602
+26135040,26,SP,Apto Matecana,Pereira,Risaralda,1342,-75.734,4.816,dentro,26.336,17.363,21.541
+26135100,26,CO,Bohemia La,Pereira,Risaralda,970,-75.878,4.878,dentro,30.084,19.094,23.922
+26135070,26,CO,Cedral El,Pereira,Risaralda,2120,-75.533,4.783,dentro,19.544,11.468,15.181
+26135110,26,CO,Veracruz,Pereira,Risaralda,1720,-75.627,4.868,dentro,23.776,14.573,18.767
+54015010,54,CO,Pueblo Rico,Pueblo Rico,Risaralda,1530,-76.031,5.234,vecindario,22.319,15.994,18.446
+26135060,26,CO,Jazmin El,Santa Rosa de Cabal,Risaralda,1600,-75.633,4.917,dentro,24.733,15.398,19.566
+26135160,26,CO,San Remo,Santa Rosa de Cabal,Risaralda,2000,-75.58,4.842,dentro,21.608,13.7,17.09
+26145030,26,CO,Camelia La,Santuario,Risaralda,1650,-75.967,5.08,dentro,23.609,16.171,19.191
+21215100,21,CO,Cajamarca,Cajamarca,Tolima,1920,-75.425,4.442,vecindario,23.679,13.872,18.771
+21215130,21,CO,Cucuana Hda,Cajamarca,Tolima,2120,-75.519,4.341,vecindario,,,15.845
+21255120,21,CO,Villahermosa,Villahermosa,Tolima,2029,-75.117,5.027,vecindario,20.127,13.717,16.857
+54035020,54,CO,Argelia El Recreo,Argelia,Valle del Cauca,1600,-76.117,4.733,vecindario,26.603,15.504,20.448
+26105150,26,CO,San Marcos,Bugalagrande,Valle del Cauca,1002,-76.033,4.239,dentro,29.364,17.504,23.288
+26085120,26,SS,Base Aerea MFS,Cali,Valle del Cauca,954,-76.503,3.457,dentro,29.956,19.653,25.194
+26055070,26,CP,Univ del Valle,Cali,Valle del Cauca,985,-76.534,3.378,dentro,29.886,19.236,24.476
+26095080,26,CO,Tenerife,El Cerrito,Valle del Cauca,2609,-76.075,3.73,dentro,17.725,10.011,13.639
+26075080,26,AM,Cenicana,Florida,Valle del Cauca,1013,-76.299,3.361,dentro,29.484,18.692,23.563
+26095230,26,AM,Vinculo El,Guadalajara de Buga,Valle del Cauca,979,-76.3,3.835,dentro,29.864,18.804,23.591
+26115040,26,CP,Cent Admo La Union,La Union,Valle del Cauca,920,-76.062,4.531,dentro,30.629,18.773,24.304
+26075040,26,SP,Apto A Bonilla,Palmira,Valle del Cauca,961,-76.386,3.533,dentro,29.739,18.884,23.925
+26075050,26,CO,Ing Manuelita Porv,Palmira,Valle del Cauca,1058,-76.278,3.574,dentro,,18.842,23.051
+26075010,26,AM,Palmira Ica,Palmira,Valle del Cauca,1050,-76.315,3.513,dentro,29.418,19.138,23.612
+26095180,26,CO,San Emigdio,Palmira,Valle del Cauca,1272,-76.2,3.55,dentro,23.225,15.548,
+53115030,53,CO,Julio Fernandez,Restrepo,Valle del Cauca,1360,-76.517,3.817,vecindario,25.745,16.514,20.031
+26125130,26,CO,Cumbarco,Sevilla,Valle del Cauca,1692,-75.832,4.185,dentro,23.354,15.107,18.875
+26105160,26,SP,Apto Farfan,Tulua,Valle del Cauca,955,-76.223,4.09,dentro,29.919,18.471,23.891
+26105140,26,CO,Barragan,Tulua,Valle del Cauca,2902,-75.888,4.033,dentro,16.043,7.588,11.738
+26105230,26,CO,Mateguadua,Tulua,Valle del Cauca,1025,-76.168,4.029,dentro,29.497,17.432,22.598
+26085130,26,CO,Buitrera La,Yumbo,Valle del Cauca,1500,-76.567,3.583,vecindario,26.177,16.416,20.699
+26105110,26,CO,Ing Riopaila,Zarzal,Valle del Cauca,941,-76.082,4.318,dentro,31.081,18.326,24.317

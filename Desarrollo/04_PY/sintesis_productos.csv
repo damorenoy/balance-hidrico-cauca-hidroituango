@@ -1,0 +1,4 @@
+﻿,1. |dif. P media| (%),2. error abs. medio en Q (%),3. RMSE ciclo (mm/mes),3b. r ciclo,4. RMSE en estaciones (mm/año),1. puesto,2. puesto,3. puesto,4. puesto,puesto promedio
+CHIRPS,0.8,5.96,4.3,1.0,355.64,1,1,1,1,1.0
+ERA5-Land,199.39,432.42,336.58,0.68,6268.01,2,3,2,3,2.5
+ERA5,200.21,431.61,338.42,0.62,5957.53,3,2,3,2,2.5

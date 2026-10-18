@@ -1,0 +1,13 @@
+# Datos crudos entregados en el curso (no se publican; ver README)
+Información inicial/
+
+# Copia comprimida del sitio (el sitio ya está en Desarrollo/04_PY/sitio)
+Desarrollo/04_PY/sitio.zip
+
+# Archivos temporales
+.ipynb_checkpoints/
+__pycache__/
+*.qgz~
+~$*
+Thumbs.db
+desktop.ini
